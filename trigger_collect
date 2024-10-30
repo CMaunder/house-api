@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/charliemaunder/Desktop/house
+./house-env/bin/python ./app/services/collect.py >> ./logs/collect_logs.txt 2>&1
