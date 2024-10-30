@@ -2867,3 +2867,47 @@ A full buffer was not returned. Try again.
 [x] message: {"temp": 18.77777777777778, "humidity": 68.55555555555556, "time_recorded": "2024-10-30 06:25:02.002001"} sent.
 [x] message: {"temp": 18.5, "humidity": 68.3, "time_recorded": "2024-10-30 06:30:01.670067"} sent.
 [x] message: {"temp": 18.7, "humidity": 68.5, "time_recorded": "2024-10-30 06:35:01.348841"} sent.
+[x] message: {"temp": 18.9, "humidity": 68.1, "time_recorded": "2024-10-30 06:40:02.023107"} sent.
+[x] message: {"temp": 19.1, "humidity": 69.2, "time_recorded": "2024-10-30 06:45:01.695484"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 18.444444444444443, "humidity": 69.66666666666667, "time_recorded": "2024-10-30 06:50:01.372420"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 18.22222222222222, "humidity": 69.22222222222223, "time_recorded": "2024-10-30 06:55:02.031429"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 18.333333333333332, "humidity": 69.55555555555556, "time_recorded": "2024-10-30 07:00:01.709810"} sent.
+[x] message: {"temp": 19, "humidity": 69.4, "time_recorded": "2024-10-30 07:05:01.376350"} sent.
+A full buffer was not returned. Try again.
+[x] message: {"temp": 18.555555555555557, "humidity": 69.11111111111111, "time_recorded": "2024-10-30 07:10:02.050557"} sent.
+[x] message: {"temp": 18.4, "humidity": 69.5, "time_recorded": "2024-10-30 07:15:01.723096"} sent.
+[x] message: {"temp": 18.9, "humidity": 69.3, "time_recorded": "2024-10-30 07:20:01.411345"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 18.444444444444443, "humidity": 69.22222222222223, "time_recorded": "2024-10-30 07:25:02.079348"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 18.77777777777778, "humidity": 69.44444444444444, "time_recorded": "2024-10-30 07:30:01.758022"} sent.
+[x] message: {"temp": 18.9, "humidity": 69.2, "time_recorded": "2024-10-30 07:35:01.448056"} sent.
+[x] message: {"temp": 18.3, "humidity": 69, "time_recorded": "2024-10-30 07:40:02.127093"} sent.
+[x] message: {"temp": 18.7, "humidity": 69.1, "time_recorded": "2024-10-30 07:45:01.799296"} sent.
+[x] message: {"temp": 18.8, "humidity": 69.1, "time_recorded": "2024-10-30 07:50:01.481183"} sent.
+[x] message: {"temp": 18.8, "humidity": 69.1, "time_recorded": "2024-10-30 07:55:01.150593"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 19.11111111111111, "humidity": 69.11111111111111, "time_recorded": "2024-10-30 08:00:01.791829"} sent.
+[x] message: {"temp": 19.1, "humidity": 69.1, "time_recorded": "2024-10-30 08:05:01.433439"} sent.
+[x] message: {"temp": 18.5, "humidity": 69, "time_recorded": "2024-10-30 08:10:02.100698"} sent.
+[x] message: {"temp": 18.3, "humidity": 69.1, "time_recorded": "2024-10-30 08:15:01.774795"} sent.
+[x] message: {"temp": 18.4, "humidity": 69.2, "time_recorded": "2024-10-30 08:20:01.465502"} sent.
+[x] message: {"temp": 19.1, "humidity": 69, "time_recorded": "2024-10-30 08:25:01.131027"} sent.
+[x] message: {"temp": 19, "humidity": 69, "time_recorded": "2024-10-30 08:30:01.802651"} sent.
+[x] message: {"temp": 18.9, "humidity": 69, "time_recorded": "2024-10-30 08:35:01.477219"} sent.
+[x] message: {"temp": 18.8, "humidity": 69.1, "time_recorded": "2024-10-30 08:40:01.170037"} sent.
+[x] message: {"temp": 18.9, "humidity": 69.1, "time_recorded": "2024-10-30 08:45:01.848666"} sent.
+A full buffer was not returned. Try again.
+[x] message: {"temp": 18.77777777777778, "humidity": 68.88888888888889, "time_recorded": "2024-10-30 08:50:01.535339"} sent.
+[x] message: {"temp": 18.7, "humidity": 69, "time_recorded": "2024-10-30 08:55:01.225067"} sent.
+[x] message: {"temp": 19.4, "humidity": 69.1, "time_recorded": "2024-10-30 09:00:01.894788"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 19.22222222222222, "humidity": 68.33333333333333, "time_recorded": "2024-10-30 09:05:01.564160"} sent.
+Checksum did not validate. Try again.
+[x] message: {"temp": 19.11111111111111, "humidity": 67.22222222222223, "time_recorded": "2024-10-30 09:10:01.225780"} sent.
+[x] message: {"temp": 19.7, "humidity": 68.8, "time_recorded": "2024-10-30 09:15:01.893657"} sent.
+[x] message: {"temp": 19.8, "humidity": 68.8, "time_recorded": "2024-10-30 09:20:01.575800"} sent.
+[x] message: {"temp": 19.8, "humidity": 68.9, "time_recorded": "2024-10-30 09:25:01.240642"} sent.
