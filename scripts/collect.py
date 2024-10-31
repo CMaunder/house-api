@@ -12,7 +12,7 @@ from pathlib import Path
 env_path = Path('.') / '.env'
 load_dotenv(dotenv_path=env_path)
 
-def record():
+def record(readings=10):
     dht_device = adafruit_dht.DHT11(board.D4)
 
     creds = pika.PlainCredentials(username=os.getenv("RABBITMQ_USER"), password=os.getenv("RABBITMQ_PASSWORD"))
@@ -25,7 +25,7 @@ def record():
 
     temp_array = []
     humidity_array = []
-    for _ in range(1,11):
+    for _ in range(1,readings+1):
         try:
             temp_array.append(dht_device.temperature)
             humidity_array.append(dht_device.humidity)

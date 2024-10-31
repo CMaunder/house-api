@@ -1,5 +1,6 @@
 .env
 __pycache__
-house-env
+.api-venv
+.pi-venv
 .coverage
 logs/

@@ -7,12 +7,13 @@ from dotenv import load_dotenv
 import os
 
 from pathlib import Path
-env_path = Path('.') / '.env'
+env_path = Path('..') / '.env'
 load_dotenv(dotenv_path=env_path)
 
 def pull_and_save(continuous=False):
     # Connect to MariaDB Platform
     try:
+        print(os.getenv("MYSQL_PASSWORD"))
         conn = mariadb.connect(
             user=os.getenv("MYSQL_USER"),
             password=os.getenv("MYSQL_PASSWORD"),
